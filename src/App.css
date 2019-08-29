@@ -4,13 +4,21 @@ label {
   margin-bottom: 10px;
 }
 
-#email{
+#email, #nome{
   padding: 10px;
   font-size: 15px;
 }
 
-.submit {
-  display: block;
+.submit, button {  
   padding: 10px;
+  font-size: 15px;
+  margin: 0 5px;
+}
+
+.maior {
+  font-size: 30px;
+}
+
+.menor {
   font-size: 15px;
 }
